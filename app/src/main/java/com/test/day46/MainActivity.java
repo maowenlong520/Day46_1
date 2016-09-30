@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initView() {
+        System.out.println("---hahha");
     }
 }
